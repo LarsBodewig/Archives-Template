@@ -1,0 +1,3 @@
+#!/bin/bash
+
+.scripts/unpack.sh > /dev/null
