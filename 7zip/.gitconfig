@@ -1,0 +1,4 @@
+[diff "archive"]
+	textconv = "C:/Program Files/7-Zip/7z.exe" x -so "$1"
+[core]
+	hooksPath = .hooks

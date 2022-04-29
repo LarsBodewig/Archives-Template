@@ -1,0 +1,41 @@
+# common archive formats
+*.7z diff=archive
+*.gzip diff=archive
+*.rar diff=archive
+*.tar diff=archive
+*.zip diff=archive
+
+# other supported formats
+# *.ar diff=archive
+# *.arj diff=archive
+# *.bzip2 diff=archive
+# *.cab diff=archive
+# *.chm diff=archive
+# *.cpio diff=archive
+# *.cramfs diff=archive
+# *.dmg diff=archive
+# *.ext diff=archive
+# *.fat diff=archive
+# *.gpt diff=archive
+# *.hfs diff=archive
+# *.ihex diff=archive
+# *.iso diff=archive
+# *.lzh diff=archive
+# *.lzma diff=archive
+# *.mbr diff=archive
+# *.msi diff=archive
+# *.nsis diff=archive
+# *.ntfs diff=archive
+# *.qcow2 diff=archive
+# *.rpm diff=archive
+# *.squashfs diff=archive
+# *.udf diff=archive
+# *.uefi diff=archive
+# *.vdi diff=archive
+# *.vhd diff=archive
+# *.vhdx diff=archive
+# *.vmdk diff=archive
+# *.wim diff=archive
+# *.xar diff=archive
+# *.xz diff=archive
+# *.z diff=archive
