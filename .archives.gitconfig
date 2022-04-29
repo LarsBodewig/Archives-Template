@@ -1,4 +1,0 @@
-[diff "archive"]
-	textconv = .scripts/diff.sh
-[core]
-	hooksPath = .hooks
